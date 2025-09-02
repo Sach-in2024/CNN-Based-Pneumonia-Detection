@@ -56,7 +56,8 @@ Dataset: [Chest X-Ray Pneumonia (Kaggle)](https://www.kaggle.com/datasets/paulti
 ---
 
 ## 📸 Sample Prediction
-![Sample X-Ray](sample_images/example.png)
+<img width="574" height="713" alt="Normal_Outcome" src="https://github.com/user-attachments/assets/b813dc6d-3a51-4fe8-9652-73a8e28ca1b2" />
+
 
 ---
 
