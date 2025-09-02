@@ -5,7 +5,7 @@ This project uses **Deep Learning (ResNet50 Transfer Learning)** to classify che
 - ✅ Normal
 - 🫁 Pneumonia
 
-Achieved **90%+ accuracy** using fine-tuned ResNet50 with data augmentation.
+Achieved **86% accuracy** using fine-tuned ResNet50 with data augmentation.
 
 ---
 
@@ -50,7 +50,7 @@ Dataset: [Chest X-Ray Pneumonia (Kaggle)](https://www.kaggle.com/datasets/paulti
 ---
 
 ## 📊 Results
-- Accuracy: **90–93%**
+- Accuracy: **86-90%**
 - Model: Fine-tuned ResNet50
 
 ---
